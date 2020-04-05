@@ -1,0 +1,12 @@
+{
+    "name": "LanDenLabs-HexColorize",
+    "title": "Hex Colorizer",
+    "description": "Colorize Hex values for any files with #hexColor, rgb/a or hsl/a syntax",
+    "homepage": "https://github.com/landenlabs/brackets-HexColorize",
+    "version": "1.1.1",
+    "author": "Dennis Lang, <landenlabs@gmail.com>",
+    "license": "Public Domain",
+    "engines": {
+        "brackets": ">=1.5.0"
+    }
+}
